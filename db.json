@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": "b358",
+      "name": "Samsung Galaxy S21 Ultra",
+      "brand": "Samsung",
+      "category": "Phones",
+      "price": "219,999",
+      "description": "The Samsung Galaxy S21 Ultra features a stunning 6.8-inch Dynamic AMOLED display......",
+      "createdAt": "2024-04-16"
+    },
+    {
+      "id": "8c23",
+      "name": "Dell XPS 15 Laptop",
+      "brand": "Dell",
+      "category": "Accessories",
+      "price": "299,999",
+      "description": "The Dell XPS 15 is a high-performance laptop with a 10th generation Intel Core i7 processor, NVIDIA GeForce GTX 1650 graphics, a beautiful 15.6-inch 4K OLED display, and a premium aluminum design.",
+      "createdAt": "2024-04-16"
+    },
+    {
+      "id": "ab56",
+      "name": "Sony PlayStation 5",
+      "brand": "Sony",
+      "category": "Accessories",
+      "price": "114,999",
+      "description": "The Sony PlayStation 5 is the latest gaming console from Sony, offering cutting-edge graphics, lightning-fast load times, and an immersive gaming experience.",
+      "createdAt": "2024-04-16"
+    },
+    {
+      "id": "a4f2",
+      "name": "Apple AirPods Pro",
+      "brand": "Apple",
+      "category": "Accessories",
+      "price": "47,999",
+      "description": "The Apple AirPods Pro are wireless earbuds with active noise cancellation, transparency mode, and customizable fit for all-day comfort.",
+      "createdAt": "2024-04-16"
+    },
+    {
+      "id": "9ca2",
+      "name": "Huawei MateBook X Pro",
+      "brand": "Huawei",
+      "category": "Accessories",
+      "price": "259,999",
+      "description": "The Huawei MateBook X Pro is a sleek and powerful laptop with a 10th generation Intel Core i7 processor, NVIDIA GeForce MX250 graphics, a stunning 13.9-inch 3K touchscreen display, and a premium all-metal design.",
+      "createdAt": "2024-04-16"
+    }
+  ]
+}
